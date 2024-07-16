@@ -225,7 +225,7 @@ h1{
   display:flex;
   justify-content:center;
   position:relative;
-  top:min(60vh,1000px);
+  top:min(60vh,1200px);
   font-style:italic;
   font-weight:bold;
   color:DarkMagenta;
