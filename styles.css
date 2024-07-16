@@ -220,3 +220,14 @@ body {
   left: 109px;
   
 }
+
+h1{
+  display:flex;
+  justify-content:center;
+  position:relative;
+  top:600px;
+  font-style:italic;
+  font-weight:bold;
+  color:DarkMagenta;
+  font-size:60px;
+}
